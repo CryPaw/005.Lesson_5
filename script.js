@@ -4,7 +4,7 @@ num1 = Number(num1);
 let num2 = prompt('Друге число');
 num2 = Number(num2);
 
-let operator = prompt('оператор (/,+,*,-)');
+let operator = prompt('Оператор (/,+,*,-)');
 
 let e = num1 + num2;
 let f = num1 - num2;
